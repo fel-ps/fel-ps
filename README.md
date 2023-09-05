@@ -1,16 +1,14 @@
-### Hi there 👋
+<div align="center">
+  <a href="https://vaaski.dev">
+    <img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" height="150" />
+  </a>
+</div>
 
-<!--
-**fel-ps/fel-ps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Languages
+<a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="30px" height="30px"></a>&nbsp;
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>&nbsp;
+  
