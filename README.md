@@ -6,7 +6,7 @@
 ##
 <h3>
   <img src="https://raw.githubusercontent.com/fel-ps/fel-ps/master/name.svg" alt="Felipe Augusto" />
-  <img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="75">
+  <img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="72" >
 </h3>
 
 Enthusiastic university student of Information Technology💻, currently studying Bachelor's Degree in Information Systems at the renowned Federal University of Rio Grande do Norte (UFRN). My passion for technology and problem solving motivates me to deepen my knowledge in software development📱, systems analysis and emerging technologies🛠️. 
@@ -33,6 +33,7 @@ Enthusiastic university student of Information Technology💻, currently studyin
 ### Languages and Tools
 <a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="30px" height="30px"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>&nbsp;
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
 ##
 
 ![fel-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fel-ps&show_icons=true&theme=tokyonight&rank_icon=github)
