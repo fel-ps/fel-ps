@@ -29,16 +29,14 @@ Enthusiastic university student of Information Technology💻, currently studyin
 
 <br>
 
-
-![fel-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fel-ps&show_icons=true&theme=tokyonight&rank_icon=github)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fel-ps&show_icons=true&theme=tokyonight&layout=compact" />
- </div>
-
 ### Languages and Tools
 <a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="30px" height="30px"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV1dWQ3dDF2eGF2Zmg1OXIybm1mN3l6MzhpZHhtYzE2dTNvcDkyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
 
+![fel-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fel-ps&show_icons=true&theme=tokyonight&rank_icon=github)
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fel-ps&show_icons=true&theme=tokyonight&layout=compact" />
+ </div>
 
 <div align="right">
   <a href="https://vaaski.dev">
