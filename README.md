@@ -3,8 +3,11 @@
   <img src="https://media.giphy.com/media/1YfBz5TnsrqEGOJwc0/giphy.gif" width="350" style="margin-left: 160px;">
 </h3>
 
-
-## Hey 👋, I'm Felps!
+##
+<h3>
+  <img src="https://raw.githubusercontent.com/fel-ps/fel-ps/master/name.svg" alt="Felipe Augusto" />
+  <img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="70">
+</h3>
 
 Enthusiastic university student of Information Technology💻, currently studying Bachelor's Degree in Information Systems at the renowned Federal University of Rio Grande do Norte (UFRN). My passion for technology and problem solving motivates me to deepen my knowledge in software development📱, systems analysis and emerging technologies🛠️. 
 <br/>
