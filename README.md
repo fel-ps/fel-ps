@@ -1,6 +1,6 @@
 <h3>
   <img src="https://media.giphy.com/media/5DzV9vIftODV0LJ6WU/giphy.gif" height="110" />
-  <img src="https://media.giphy.com/media/1YfBz5TnsrqEGOJwc0/giphy.gif" width="350" style="margin-left: 170px;">
+  <img src="https://media.giphy.com/media/1YfBz5TnsrqEGOJwc0/giphy.gif" width="350" style="margin-left: 160px;">
 </h3>
 
 
