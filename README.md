@@ -5,16 +5,14 @@
 
 ##
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+ <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" alt="Seu GIF" width="400"/>
+ <br/>
+ 
+<div align: left;">
     Enthusiastic university student of Information Technology💻, currently studying Bachelor's Degree in Information Systems at the renowned Federal University of Rio Grande do Norte (UFRN). My passion for technology and problem solving motivates me to deepen my knowledge in software development📱, systems analysis and emerging technologies🛠️.
-  </div>
-  <div>
-    <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" alt="Seu GIF" width="500"/>
-  </div>
 </div>
 
-
+<br/>
 
 
 
