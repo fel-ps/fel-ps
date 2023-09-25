@@ -1,48 +1,43 @@
+
 <h3>
-  <img src="https://media.giphy.com/media/5DzV9vIftODV0LJ6WU/giphy.gif" height="110" />
-  <img src="https://media.giphy.com/media/1YfBz5TnsrqEGOJwc0/giphy.gif" width="350" style="margin-left: 160px;">
+  <img src="https://raw.githubusercontent.com/fel-ps/fel-ps/master/name.svg" alt="Felipe Augusto" />
 </h3>
 
 ##
-<h3>
-  <img src="https://raw.githubusercontent.com/fel-ps/fel-ps/master/name.svg" alt="Felipe Augusto" />
-  <img src="https://media.giphy.com/media/utfeiHQ7CcpyRtXla6/giphy.gif" width="72" >
-</h3>
 
-Enthusiastic university student of Information Technology💻, currently studying Bachelor's Degree in Information Systems at the renowned Federal University of Rio Grande do Norte (UFRN). My passion for technology and problem solving motivates me to deepen my knowledge in software development📱, systems analysis and emerging technologies🛠️. 
-<br/>
-<br/>
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    Enthusiastic university student of Information Technology💻, currently studying Bachelor's Degree in Information Systems at the renowned Federal University of Rio Grande do Norte (UFRN). My passion for technology and problem solving motivates me to deepen my knowledge in software development📱, systems analysis and emerging technologies🛠️.
+  </div>
+  <div>
+    <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" alt="Seu GIF" width="500"/>
+  </div>
+</div>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="360px"/>
-  
-### 🔎 More About Me:
 
-- 🔭 &nbsp; I'm currently majoring in **Information Systems-UFRN**
-- 🤝 &nbsp; I'm learning object-oriented programming;
-- 🌱 &nbsp; I’m currently learning C; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/fel-ps?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
 
-<br>
 
+
+
+##
+
+<div>
+
+<img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=fel-ps&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fel-ps's Github Stats">
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fel-ps&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+
+</div>
+
+##
 
 ### Languages and Tools
 <a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="30px" height="30px"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="30px" height="30px"></a>&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Visual Studio Code" width="30px" height="30px"></a>&nbsp;
-##
-
-![fel-ps's GitHub stats](https://github-readme-stats.vercel.app/api?username=fel-ps&show_icons=true&theme=tokyonight&rank_icon=github)
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fel-ps&show_icons=true&theme=tokyonight&layout=compact" />
- </div>
 
 
-<div align="right">
+<div align="center">
   <a href="https://vaaski.dev">
-    <img src="https://media.giphy.com/media/bMT5JJ5oRZ7Xg4lczl/giphy.gif" height="150" />
+    <img src="" " />
   </a>
 </div>
