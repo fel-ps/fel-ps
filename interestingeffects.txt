@@ -1,2 +1,7 @@
 // MOSTRA MINHAS LINGUAGENS UTILIZADAS
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=fel-ps&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+
+// MARIO DEV
+<div>
+<img width="46%" height="326" align="right" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" alt="Seu GIF"/>
+</div>
