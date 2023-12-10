@@ -16,6 +16,6 @@ Enthusiastic university student of Information Technology💻, currently studyin
 
 ##
 
-<div align="center">
-<br> <img width="100%" src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" alt="Seu GIF"/>
+<div align="right">
+  <img width="10%" src="https://media.giphy.com/media/pEuD18F5xjR9SNVmYz/giphy.gif" alt="Seu GIF"/>
 </div>
