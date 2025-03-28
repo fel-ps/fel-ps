@@ -12,7 +12,7 @@ Enthusiastic university student of Information Technology💻, currently studyin
 <a href="https://www.python.org/" title="Python"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Python" width="35px" height="35px"></a>&nbsp;
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="35px" height="35px"></a>&nbsp;
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" alt="Visual Studio Code" width="35px" height="35px"></a>&nbsp;
-<a href="https://flutter.dev/" title="Flutter"><img src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" alt="Flutter" width="34px" height="34px"></a>&nbsp;
+<a href="https://flutter.dev/" title="Flutter"><img src="https://img.icons8.com/?size=100&id=7I3BjCqe9rjG&format=png&color=000000" alt="Flutter" width="35px" height="35px"></a>&nbsp;
 <a href="https://flutter.dev/" title="React"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3VuYzd5N2oydjl0NzRrcDQwdDdlY3phZHd6YW9qemY3eXE1Y3RjdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="35px" height="35px"></a>&nbsp;
 <a href="https://flutter.dev/" title="Git"><img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="36px" height="36px"></a>&nbsp;
 
