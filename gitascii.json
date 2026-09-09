@@ -109,7 +109,7 @@
       },
       "config": {
         "accentColor": "#ff00ff",
-        "leftGifUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3N3b3Y5ejdwaXFzaG5lMmQxZjFsbHJlazdiMDMxazc1N3ZmbGRnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k5zu35npVsYfgZQwwl/giphy.gif",
+        "leftGifUrl": "",
         "card1GifUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI0NGxodGIweDhka3FhM2hhaTZ1enp6N254eTJ4c2RlNzAxcjAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif",
         "card2GifUrl": "https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"
       },
@@ -130,5 +130,6 @@
     "templateStyle": "native",
     "transparentBackground": true
   },
-  "templateId": "terminal"
+  "templateId": "terminal",
+  "profileSlug": "default"
 }
