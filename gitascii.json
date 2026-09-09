@@ -116,7 +116,8 @@
         "card2GifUrl": "https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433",
         "card1Icon": "repeat",
         "card2Icon": "code-xml",
-        "terminalText": "> open to collaborations"
+        "terminalText": "> open to collaborations",
+        "staticMode": false
       },
       "locked": false,
       "visible": true,
