@@ -108,7 +108,10 @@
         "height": 220
       },
       "config": {
-        "accentColor": "#ff00ff"
+        "accentColor": "#ff00ff",
+        "leftGifUrl": "https://i.pinimg.com/originals/17/c3/0a/17c30a274865498d44b3c9f47ff37ee2.gif",
+        "card1GifUrl": "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTI0NGxodGIweDhka3FhM2hhaTZ1enp6N254eTJ4c2RlNzAxcjAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osm7o1nCvv7pR7AyGO/giphy.gif",
+        "card2GifUrl": "https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"
       },
       "locked": false,
       "visible": true,
