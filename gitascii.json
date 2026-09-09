@@ -1,0 +1,130 @@
+{
+  "username": "fel-ps",
+  "widgets": [
+    {
+      "widgetId": "header",
+      "name": "Header Widget",
+      "position": {
+        "x": 0,
+        "y": 0
+      },
+      "size": {
+        "width": 800,
+        "height": 90
+      },
+      "config": {
+        "accentColor": "#ff00ff",
+        "backgroundColor": "#060606"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 1,
+      "instanceId": "widget_1788963812026_0"
+    },
+    {
+      "instanceId": "widget_1788966208018",
+      "widgetId": "codeweb-retro-grid",
+      "name": "Codeweb-retro-grid Widget",
+      "position": {
+        "x": 0,
+        "y": 106
+      },
+      "size": {
+        "width": 800,
+        "height": 260
+      },
+      "config": {
+        "selectedTechs": [
+          "html",
+          "js",
+          "py",
+          "c",
+          "bash",
+          "react",
+          "flutter",
+          "vscode",
+          "linux",
+          "git",
+          "css"
+        ],
+        "technologies": [
+          "html",
+          "js",
+          "py",
+          "c",
+          "bash",
+          "react",
+          "flutter",
+          "vscode",
+          "linux",
+          "git",
+          "css"
+        ],
+        "animationType": "none",
+        "animationPreviewKey": 17,
+        "accentColor": "#ff00ff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    },
+    {
+      "instanceId": "widget_1788966441863",
+      "widgetId": "codeweb-social-badge",
+      "name": "Codeweb-social-badge Widget",
+      "position": {
+        "x": 0,
+        "y": 618
+      },
+      "size": {
+        "width": 800,
+        "height": 44
+      },
+      "config": {
+        "platforms": [
+          "github",
+          "discord",
+          "gmail",
+          "linkedin"
+        ],
+        "accentColor": "#ff00ff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 4
+    },
+    {
+      "instanceId": "widget_1788967418041",
+      "widgetId": "codeweb-showcase-cards",
+      "name": "Codeweb-showcase-cards Widget",
+      "position": {
+        "x": 0,
+        "y": 382
+      },
+      "size": {
+        "width": 800,
+        "height": 220
+      },
+      "config": {
+        "accentColor": "#ff00ff"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 5
+    }
+  ],
+  "globalStyles": {
+    "backgroundColor": "#060606",
+    "textColor": "#e5e5e5",
+    "accentColor": "#c5ff4a",
+    "borderColor": "#252525",
+    "fontFamily": "'JetBrains Mono', monospace",
+    "borderRadius": 0,
+    "padding": 24,
+    "themeMode": "dark",
+    "templateStyle": "native",
+    "transparentBackground": true
+  },
+  "templateId": "terminal",
+  "profileSlug": "default"
+}
