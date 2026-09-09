@@ -130,6 +130,5 @@
     "templateStyle": "native",
     "transparentBackground": true
   },
-  "templateId": "terminal",
-  "profileSlug": "default"
+  "templateId": "terminal"
 }
