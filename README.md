@@ -17,7 +17,7 @@
 </a>
 
 <!-- About / Showcase -->
-<a href="https://github.com/fel-ps">
+<a href="https://github.com/fel-ps?tab=repositories">
   <img src="https://gitascii.com/api/fel-ps?widgets=codeweb-showcase-cards" title="About" alt="About" width="100%" style="display:block" />
 </a>
 
